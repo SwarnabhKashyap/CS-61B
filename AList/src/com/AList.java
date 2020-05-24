@@ -69,6 +69,6 @@ public class AList {
     //Method to print the elements of the array
     public void ArrayPrint()
     {
-        System.out.println("Array Elements are"+ Arrays.toString(a));
+        System.out.println("Array Elements are: "+ Arrays.toString(a));
     }
 }
